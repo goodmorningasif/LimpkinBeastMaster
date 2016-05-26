@@ -1,0 +1,23 @@
+{
+  "name": "beastmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodmorningasif/LimpkinBeastMaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodmorningasif/LimpkinBeastMaster/issues"
+  },
+  "homepage": "https://github.com/goodmorningasif/LimpkinBeastMaster#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
